@@ -1,2 +1,5 @@
 bin/
 .ipynb_checkpoints/
+/cs 601 sample code/.idea/
+/cs 601 sample code/out/
+/cs 601 sample code/cs 601 sample code.iml
